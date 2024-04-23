@@ -1,1 +1,1 @@
-# Galaxy-Assembly-Bias-in-SDSS-CMASS-
+# Galaxy-Assembly-Bias-in-SDSS-CMASS
